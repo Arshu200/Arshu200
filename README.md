@@ -7,7 +7,7 @@
 Completed my B.Tech in 2023 and looking for the job.
             
 
-### Streetcred:
+<!--### Streetcred: -->
 
 <!--<a href="https://www.tublian.com/profile/Arshu200?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Arshu200?type=without_score"></a> -->
 
@@ -21,15 +21,15 @@ Completed my B.Tech in 2023 and looking for the job.
 
 ### Links:
 
-### <a href="https://www.linkedin.com/in/arshad200/">linkedin</a> | <a href="https://www.github.com/Arshu200">github</a> | <a href="">linkedin</a>
+### <a href="https://www.linkedin.com/in/arshad200/">linkedin</a> | <a href="https://www.github.com/Arshu200">github</a> 
 
-## 👇 Few things about me
+<!--## 👇 Few things about me
 
 
 <div>
 
             
-</div>
+</div> -->
 
 
 
