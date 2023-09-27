@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Completed my B.Tech in 2023 and looking for the job.
+Passionate About Development and Technologies. The Aim is To Achieve a Good Position By Doing Satisfying Work In The IT Feild And Strongly Focused to Excel In Development And Current Technology Domains.
             
 
 <!--### Streetcred: -->
