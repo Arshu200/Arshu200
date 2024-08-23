@@ -47,7 +47,7 @@ Passionate About Development and Technologies. The Aim is To Achieve a Good Posi
 <div id="pinned-card">
 
 ### <a href="https://www.linkedin.com/in/arshad200/" target="_blank">ShaikArshad - LinkedIn</a>
-*View ShaikArshad's profile on LinkedIn, the world's largest programming community.*
+*View ShaikArshad's profile on LinkedIn, the world's largest connecting community.*
 
 <a href="https://www.linkedin.com/in/arshad200/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="200px" height="200px">
