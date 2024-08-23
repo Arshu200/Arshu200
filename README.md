@@ -50,7 +50,7 @@ Passionate About Development and Technologies. The Aim is To Achieve a Good Posi
 *View ShaikArshad's profile on LinkedIn, the world's largest programming community.*
 
 <a href="https://www.linkedin.com/in/arshad200/" target="_blank">
-      <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="400px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="400px">
 </a>
 </div>
                   
