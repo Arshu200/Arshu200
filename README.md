@@ -40,7 +40,7 @@ Passionate About Development and Technologies. The Aim is To Achieve a Good Posi
 *View ShaikArshad's profile on LeetCode, the world's largest programming community.*
 
 <a href="https://leetcode.com/ShaikArshad/" target="_blank">
-      <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width="400px">
+      <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width="200px" height="200px">
 </a>
 </div>
 <div id="pinned-card">
